@@ -1,0 +1,97 @@
+
+name: KidsJoy Prom Feed
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get repository files
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Download KidsJoy data from Apify
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          APIFY_DATASET_ID: ${{ secrets.APIFY_DATASET_ID }}
+        run: |
+          python - <<'PY'
+          import os
+          import json
+          import urllib.request
+
+          token = os.environ["APIFY_TOKEN"]
+          dataset = os.environ["APIFY_DATASET_ID"]
+
+          if not token or not dataset:
+              raise SystemExit("Apify credentials are missing")
+
+          url = (
+              f"https://api.apify.com/v2/datasets/"
+              f"{dataset}/items?format=json&clean=true"
+          )
+
+          request = urllib.request.Request(
+              url,
+              headers={"Authorization": f"Bearer {token}"}
+          )
+
+          with urllib.request.urlopen(request, timeout=120) as response:
+              data = json.load(response)
+
+          if not isinstance(data, list) or not data:
+              raise SystemExit("Dataset is empty")
+
+          products = [
+              item for item in data
+              if item.get("status") == "ok"
+              and item.get("variations")
+          ]
+
+          if not products:
+              raise SystemExit("No valid products found")
+
+          with open("kidsjoy_data.json", "w", encoding="utf-8") as f:
+              json.dump(products, f, ensure_ascii=False)
+
+          print(f"Downloaded {len(products)} products")
+          PY
+
+      - name: Convert data to Prom XML
+        run: |
+          python kidsjoy_convert.py kidsjoy_data.json KidsJoy_Prom_TEST_corrected.xml
+
+      - name: Check generated file
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+
+          path = "KidsJoy_Prom_TEST_corrected.xml"
+          root = ET.parse(path).getroot()
+          offers = root.findall(".//offer")
+
+          if len(offers) < 20:
+              raise SystemExit("Too few offers: feed not updated")
+
+          print(f"Validated {len(offers)} offers")
+          PY
+
+      - name: Publish updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add KidsJoy_Prom_TEST_corrected.xml
+          if ! git diff --cached --quiet; then
+            git commit -m "Update KidsJoy feed"
+            git push
+          fi
