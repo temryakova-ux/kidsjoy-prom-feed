@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-11-22 08:42">
+  <shop>
+    <name>Timosha Shop KidsJoy test</name>
+    <company>Timosha Shop</company>
+    <url>https://www.kidjoy.com.ua/</url>
+    <currencies>
+      <currency id="UAH" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="10001">Дитячі комбінезони</category>
+    </categories>
+    <offers>
+      <offer id="900015593" group_id="15579" available="false" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Синій, 66</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Синій, 66</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>0</quantity_in_stock>
+        <vendorCode>KJ-15593</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">66</param>
+        <param name="Колір">Синій</param>
+      </offer>
+      <offer id="900015596" group_id="15579" available="true" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Рожевий, 73</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Рожевий, 73</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15596</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">73</param>
+        <param name="Колір">Рожевий</param>
+      </offer>
+      <offer id="900015598" group_id="15579" available="true" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Червоний, 73</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Червоний, 73</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15598</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">73</param>
+        <param name="Колір">Червоний</param>
+      </offer>
+      <offer id="900015599" group_id="15579" available="true" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Чорний, 73</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Чорний, 73</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15599</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">73</param>
+        <param name="Колір">Чорний</param>
+      </offer>
+      <offer id="900015603" group_id="15579" available="true" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Чорний, 80</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Чорний, 80</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15603</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">80</param>
+        <param name="Колір">Чорний</param>
+      </offer>
+      <offer id="900015600" group_id="15579" available="true" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Рожевий, 80</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Рожевий, 80</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15600</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">80</param>
+        <param name="Колір">Рожевий</param>
+      </offer>
+      <offer id="900015601" group_id="15579" available="true" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Синій, 80</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Синій, 80</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15601</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">80</param>
+        <param name="Колір">Синій</param>
+      </offer>
+      <offer id="900015602" group_id="15579" available="true" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Червоний, 80</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Червоний, 80</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15602</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">80</param>
+        <param name="Колір">Червоний</param>
+      </offer>
+      <offer id="900015604" group_id="15579" available="true" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Рожевий, 90</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Рожевий, 90</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15604</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">90</param>
+        <param name="Колір">Рожевий</param>
+      </offer>
+      <offer id="900015605" group_id="15579" available="true" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Синій, 90</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Синій, 90</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15605</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">90</param>
+        <param name="Колір">Синій</param>
+      </offer>
+      <offer id="900015606" group_id="15579" available="true" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Червоний, 90</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Червоний, 90</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15606</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">90</param>
+        <param name="Колір">Червоний</param>
+      </offer>
+      <offer id="900015607" group_id="15579" available="true" selling_type="r">
+        <name>Стильний та дуже зручний комбінезон — Чорний, 90</name>
+        <name_ua>Стильний та дуже зручний комбінезон — Чорний, 90</name_ua>
+        <url>https://www.kidjoy.com.ua/product/stylnyj-ta-duzhe-zruchnyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>1095</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15607</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ymx1ew2yn7bhxva0wo8qnisfvpzinlcqi8vtvydz_dpyhf__auviumhxjzvd_kvh_sccqkms3hszezq2afoowzst.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6281029285_w1280_h1280_aadneeye2vlm0ljkpi2ohynl0__21barexrsyncxyjjuncyj.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/wt6vv4jw5pgin33ca53o2j18wheqbmnhshnthxqdeynos1ml1p8052mde4pqiotsdwoz5v9y1fj_dsbgo1jncqbo.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/x9wkl4hy5q3ndtgcowii2egmyoemushrpklpv1skmzjtp_omxrgwsba9yugm2mgvie7rhr3ctjiwozmzegiafdgs.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/cp_9pvpgur5l-jz_a1xpve28bobywuhunlsvnxhhrkiorf1n9gbtavi8ljzfif1urfqk9ihm_jwl2wx_cafzya1s.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-41.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-39.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-38.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-35.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-10-31_20-18-34.jpg</picture>
+        <description>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Дуже теплий та зручний, ідеальний для прогулянок у холодну пору року.
+
+🖤Наповнювач – синтепух, що добре тримає тепло.
+
+🖤Підкладка – м’який плюш, приємний до тіла малюка.
+
+🖤Застібається на блискавку – легко одягати та знімати.
+
+🖤Манжети на рукавах і ніжках для комфорту та захисту від холоду.
+
+🖤Капюшон з милими вушками додає особливого шарму.
+
+❄ Сезон: єврозима – зима.
+
+Виміри
+
+66-Довжина 60 см Рукав від плеча 26 см
+
+ОГ 30*2 см крок 20 см
+
+73-Довжина 61 см Рукав від плеча 29 см плечі 23 см
+
+ОГ 30*2 см крок 20 см
+
+80-Довжина 64 см Рукав від плеча 30 см плечі 24 см
+
+ОГ 32*2 см крок 21 см
+
+90-Довжина 69 см Рукав від плеча 32 см плечі 26 см
+
+ОГ 33*2 см крок 23 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">90</param>
+        <param name="Колір">Чорний</param>
+      </offer>
+      <offer id="900015568" group_id="15551" available="true" selling_type="r">
+        <name>Дитячий комбінезон — Хакі, 73</name>
+        <name_ua>Дитячий комбінезон — Хакі, 73</name_ua>
+        <url>https://www.kidjoy.com.ua/product/dytyachyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>855</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15568</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ap443x3m0dfoaoiiwl1q6ds43yswh0jsvxx6mibgakbdmwqixoaqecxgzbseplv4rk50bdltu0kyxgb9kaqj9fiq.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/emakqrfnlqs6ustlrackpxv2n5wljiyjrlmvyenimdknfjs2chmh9v3u-lynwjf8_ra-shj6uskv72ua_6dfynap.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/xng8ucagjgx7-wfy8veqcz6mhk2tjn2bhf7xudantlsrsix_vdhimuwniersykhvdq4p9jce8mbhztd81o1vbm1c.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/nx6uck9odz9iid13n-52gozpitjo7qsh9eweuuyma1gavpv9ru8s2bc11b1b2etfbyv9rrnhdffk79sgdq5o7dje.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/q07sy3dmlemxoxsckaawxem6v0qvkqtw1622miqvghvnx1lh5bmoyce5oldobxpq_n2g35i75bepvq_nil_zly07.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-13.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-11.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-05.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-02.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-01.jpg</picture>
+        <description>📝 Стильний комбінезон для діток
+
+🖤 Верх – балонь, вітро та водонепроникна
+
+🖤 Наповнювач – холофайбер
+
+🖤 Підкладка – плюш по всьому
+
+🖤 Застібка – змійка
+
+🖤 Ручки та ніжки на манжетах
+
+🖤 На капюшоні вушка
+
+🖤 Сезон Єврозима
+
+Заміри
+
+73-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 20 см
+
+80-Довжина 62 см Рукав від горла 32 см ОГ 34*2 см крок 19 см
+
+90-Довжина 64 см Рукав від горла 34 см ОГ 36*2 см крок 21 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Стильний комбінезон для діток
+
+🖤 Верх – балонь, вітро та водонепроникна
+
+🖤 Наповнювач – холофайбер
+
+🖤 Підкладка – плюш по всьому
+
+🖤 Застібка – змійка
+
+🖤 Ручки та ніжки на манжетах
+
+🖤 На капюшоні вушка
+
+🖤 Сезон Єврозима
+
+Заміри
+
+73-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 20 см
+
+80-Довжина 62 см Рукав від горла 32 см ОГ 34*2 см крок 19 см
+
+90-Довжина 64 см Рукав від горла 34 см ОГ 36*2 см крок 21 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">73</param>
+        <param name="Колір">Хакі</param>
+      </offer>
+      <offer id="900015573" group_id="15551" available="true" selling_type="r">
+        <name>Дитячий комбінезон — Білий, 90</name>
+        <name_ua>Дитячий комбінезон — Білий, 90</name_ua>
+        <url>https://www.kidjoy.com.ua/product/dytyachyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>855</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15573</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/q07sy3dmlemxoxsckaawxem6v0qvkqtw1622miqvghvnx1lh5bmoyce5oldobxpq_n2g35i75bepvq_nil_zly07.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/emakqrfnlqs6ustlrackpxv2n5wljiyjrlmvyenimdknfjs2chmh9v3u-lynwjf8_ra-shj6uskv72ua_6dfynap.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/xng8ucagjgx7-wfy8veqcz6mhk2tjn2bhf7xudantlsrsix_vdhimuwniersykhvdq4p9jce8mbhztd81o1vbm1c.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/nx6uck9odz9iid13n-52gozpitjo7qsh9eweuuyma1gavpv9ru8s2bc11b1b2etfbyv9rrnhdffk79sgdq5o7dje.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ap443x3m0dfoaoiiwl1q6ds43yswh0jsvxx6mibgakbdmwqixoaqecxgzbseplv4rk50bdltu0kyxgb9kaqj9fiq.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-13.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-11.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-05.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-02.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-01.jpg</picture>
+        <description>📝 Стильний комбінезон для діток
+
+🖤 Верх – балонь, вітро та водонепроникна
+
+🖤 Наповнювач – холофайбер
+
+🖤 Підкладка – плюш по всьому
+
+🖤 Застібка – змійка
+
+🖤 Ручки та ніжки на манжетах
+
+🖤 На капюшоні вушка
+
+🖤 Сезон Єврозима
+
+Заміри
+
+73-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 20 см
+
+80-Довжина 62 см Рукав від горла 32 см ОГ 34*2 см крок 19 см
+
+90-Довжина 64 см Рукав від горла 34 см ОГ 36*2 см крок 21 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Стильний комбінезон для діток
+
+🖤 Верх – балонь, вітро та водонепроникна
+
+🖤 Наповнювач – холофайбер
+
+🖤 Підкладка – плюш по всьому
+
+🖤 Застібка – змійка
+
+🖤 Ручки та ніжки на манжетах
+
+🖤 На капюшоні вушка
+
+🖤 Сезон Єврозима
+
+Заміри
+
+73-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 20 см
+
+80-Довжина 62 см Рукав від горла 32 см ОГ 34*2 см крок 19 см
+
+90-Довжина 64 см Рукав від горла 34 см ОГ 36*2 см крок 21 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">90</param>
+        <param name="Колір">Білий</param>
+      </offer>
+      <offer id="900015570" group_id="15551" available="true" selling_type="r">
+        <name>Дитячий комбінезон — Коричневий, 80</name>
+        <name_ua>Дитячий комбінезон — Коричневий, 80</name_ua>
+        <url>https://www.kidjoy.com.ua/product/dytyachyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>855</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15570</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/nx6uck9odz9iid13n-52gozpitjo7qsh9eweuuyma1gavpv9ru8s2bc11b1b2etfbyv9rrnhdffk79sgdq5o7dje.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/emakqrfnlqs6ustlrackpxv2n5wljiyjrlmvyenimdknfjs2chmh9v3u-lynwjf8_ra-shj6uskv72ua_6dfynap.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/xng8ucagjgx7-wfy8veqcz6mhk2tjn2bhf7xudantlsrsix_vdhimuwniersykhvdq4p9jce8mbhztd81o1vbm1c.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/q07sy3dmlemxoxsckaawxem6v0qvkqtw1622miqvghvnx1lh5bmoyce5oldobxpq_n2g35i75bepvq_nil_zly07.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ap443x3m0dfoaoiiwl1q6ds43yswh0jsvxx6mibgakbdmwqixoaqecxgzbseplv4rk50bdltu0kyxgb9kaqj9fiq.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-13.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-11.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-05.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-02.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-01.jpg</picture>
+        <description>📝 Стильний комбінезон для діток
+
+🖤 Верх – балонь, вітро та водонепроникна
+
+🖤 Наповнювач – холофайбер
+
+🖤 Підкладка – плюш по всьому
+
+🖤 Застібка – змійка
+
+🖤 Ручки та ніжки на манжетах
+
+🖤 На капюшоні вушка
+
+🖤 Сезон Єврозима
+
+Заміри
+
+73-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 20 см
+
+80-Довжина 62 см Рукав від горла 32 см ОГ 34*2 см крок 19 см
+
+90-Довжина 64 см Рукав від горла 34 см ОГ 36*2 см крок 21 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Стильний комбінезон для діток
+
+🖤 Верх – балонь, вітро та водонепроникна
+
+🖤 Наповнювач – холофайбер
+
+🖤 Підкладка – плюш по всьому
+
+🖤 Застібка – змійка
+
+🖤 Ручки та ніжки на манжетах
+
+🖤 На капюшоні вушка
+
+🖤 Сезон Єврозима
+
+Заміри
+
+73-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 20 см
+
+80-Довжина 62 см Рукав від горла 32 см ОГ 34*2 см крок 19 см
+
+90-Довжина 64 см Рукав від горла 34 см ОГ 36*2 см крок 21 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">80</param>
+        <param name="Колір">Коричневий</param>
+      </offer>
+      <offer id="900015575" group_id="15551" available="true" selling_type="r">
+        <name>Дитячий комбінезон — Рожевий, 90</name>
+        <name_ua>Дитячий комбінезон — Рожевий, 90</name_ua>
+        <url>https://www.kidjoy.com.ua/product/dytyachyj-kombinezon/</url>
+        <categoryId>10001</categoryId>
+        <price>855</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15575</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/xng8ucagjgx7-wfy8veqcz6mhk2tjn2bhf7xudantlsrsix_vdhimuwniersykhvdq4p9jce8mbhztd81o1vbm1c.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/emakqrfnlqs6ustlrackpxv2n5wljiyjrlmvyenimdknfjs2chmh9v3u-lynwjf8_ra-shj6uskv72ua_6dfynap.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/nx6uck9odz9iid13n-52gozpitjo7qsh9eweuuyma1gavpv9ru8s2bc11b1b2etfbyv9rrnhdffk79sgdq5o7dje.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/q07sy3dmlemxoxsckaawxem6v0qvkqtw1622miqvghvnx1lh5bmoyce5oldobxpq_n2g35i75bepvq_nil_zly07.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/ap443x3m0dfoaoiiwl1q6ds43yswh0jsvxx6mibgakbdmwqixoaqecxgzbseplv4rk50bdltu0kyxgb9kaqj9fiq.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-13.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-11.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-05.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-02.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-40-01.jpg</picture>
+        <description>📝 Стильний комбінезон для діток
+
+🖤 Верх – балонь, вітро та водонепроникна
+
+🖤 Наповнювач – холофайбер
+
+🖤 Підкладка – плюш по всьому
+
+🖤 Застібка – змійка
+
+🖤 Ручки та ніжки на манжетах
+
+🖤 На капюшоні вушка
+
+🖤 Сезон Єврозима
+
+Заміри
+
+73-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 20 см
+
+80-Довжина 62 см Рукав від горла 32 см ОГ 34*2 см крок 19 см
+
+90-Довжина 64 см Рукав від горла 34 см ОГ 36*2 см крок 21 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Стильний комбінезон для діток
+
+🖤 Верх – балонь, вітро та водонепроникна
+
+🖤 Наповнювач – холофайбер
+
+🖤 Підкладка – плюш по всьому
+
+🖤 Застібка – змійка
+
+🖤 Ручки та ніжки на манжетах
+
+🖤 На капюшоні вушка
+
+🖤 Сезон Єврозима
+
+Заміри
+
+73-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 20 см
+
+80-Довжина 62 см Рукав від горла 32 см ОГ 34*2 см крок 19 см
+
+90-Довжина 64 см Рукав від горла 34 см ОГ 36*2 см крок 21 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">90</param>
+        <param name="Колір">Рожевий</param>
+      </offer>
+      <offer id="900015547" group_id="15535" available="true" selling_type="r">
+        <name>Дитячий комбінезон хмаринка ☁ — Білий, 90</name>
+        <name_ua>Дитячий комбінезон хмаринка ☁ — Білий, 90</name_ua>
+        <url>https://www.kidjoy.com.ua/product/dytyachyj-kombinezon-hmarynka-%e2%98%81/</url>
+        <categoryId>10001</categoryId>
+        <price>915</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15547</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/4efda6iqfyueftw5mgcq5ialt8j4kennbqtjnnci3w0lyafbpadiwzvaoajfxytos2c9k3ogzjb1kgoglspu3nmg.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-35-09.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-31_09-35-10.jpg</picture>
+        <description>📝 Комбінезон хмаринка ☁
+
+🖤 Верх – плащівка, вітро та водонепроникна
+
+🖤 Наповнювач – синтепон
+
+🖤 Підкладка – плюш
+
+🖤 Застібається повністю на кнопки
+
+🖤 Капюшон на резиночці з вушками
+
+🖤 Хмаринка пришита
+
+🖤 Сезон осінь-зима
+
+Заміри
+
+73-Довжина 55 см Рукав від горла 32 см ОГ 32*2 см крок 21 см
+
+80-Довжина 58 см Рукав від горла 34 см ОГ 34*2 см крок 23 см
+
+90-Довжина 63см Рукав від горла 37 см ОГ 35*2 см крок 25 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Комбінезон хмаринка ☁
+
+🖤 Верх – плащівка, вітро та водонепроникна
+
+🖤 Наповнювач – синтепон
+
+🖤 Підкладка – плюш
+
+🖤 Застібається повністю на кнопки
+
+🖤 Капюшон на резиночці з вушками
+
+🖤 Хмаринка пришита
+
+🖤 Сезон осінь-зима
+
+Заміри
+
+73-Довжина 55 см Рукав від горла 32 см ОГ 32*2 см крок 21 см
+
+80-Довжина 58 см Рукав від горла 34 см ОГ 34*2 см крок 23 см
+
+90-Довжина 63см Рукав від горла 37 см ОГ 35*2 см крок 25 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">90</param>
+        <param name="Колір">Білий</param>
+      </offer>
+      <offer id="900015484" group_id="15475" available="true" selling_type="r">
+        <name>Дитячий комбінезон ведмедик 🐻 — Коричневий, 66</name>
+        <name_ua>Дитячий комбінезон ведмедик 🐻 — Коричневий, 66</name_ua>
+        <url>https://www.kidjoy.com.ua/product/dytyachyj-kombinezon-vedmedyk-%f0%9f%90%bb/</url>
+        <categoryId>10001</categoryId>
+        <price>855</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15484</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-10.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6247980584_w1280_h1280_voreic2ks4q.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-11.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-14.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-13.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-16.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-15.jpg</picture>
+        <description>📝 Теплий комбінезон ведмедик 🐻
+
+🖤 Верх – махра
+
+🖤 Наповнювач – синтепон
+
+🖤 Підкладка – хб
+
+🖤 Застібка – змійка
+
+🖤 Манжети на ручках та ніжках
+
+🖤 На попі є хвостик
+
+🖤 Сезон осінь-зима
+
+Заміри
+
+66-Довжина 51 см Рукав від горла 25 см ОГ 28*2 см крок 18 см
+
+73-Довжина 54 см Рукав від горла 29 см ОГ 30*2 см крок 20 см
+
+80-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 22 см
+
+90-Довжина 61 см Рукав від горла 33 см ОГ 33*2 см крок 24 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Теплий комбінезон ведмедик 🐻
+
+🖤 Верх – махра
+
+🖤 Наповнювач – синтепон
+
+🖤 Підкладка – хб
+
+🖤 Застібка – змійка
+
+🖤 Манжети на ручках та ніжках
+
+🖤 На попі є хвостик
+
+🖤 Сезон осінь-зима
+
+Заміри
+
+66-Довжина 51 см Рукав від горла 25 см ОГ 28*2 см крок 18 см
+
+73-Довжина 54 см Рукав від горла 29 см ОГ 30*2 см крок 20 см
+
+80-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 22 см
+
+90-Довжина 61 см Рукав від горла 33 см ОГ 33*2 см крок 24 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">66</param>
+        <param name="Колір">Коричневий</param>
+      </offer>
+      <offer id="900015483" group_id="15475" available="true" selling_type="r">
+        <name>Дитячий комбінезон ведмедик 🐻 — Білий, 66</name>
+        <name_ua>Дитячий комбінезон ведмедик 🐻 — Білий, 66</name_ua>
+        <url>https://www.kidjoy.com.ua/product/dytyachyj-kombinezon-vedmedyk-%f0%9f%90%bb/</url>
+        <categoryId>10001</categoryId>
+        <price>855</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15483</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-11.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6247980584_w1280_h1280_voreic2ks4q.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-10.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-14.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-13.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-16.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-15.jpg</picture>
+        <description>📝 Теплий комбінезон ведмедик 🐻
+
+🖤 Верх – махра
+
+🖤 Наповнювач – синтепон
+
+🖤 Підкладка – хб
+
+🖤 Застібка – змійка
+
+🖤 Манжети на ручках та ніжках
+
+🖤 На попі є хвостик
+
+🖤 Сезон осінь-зима
+
+Заміри
+
+66-Довжина 51 см Рукав від горла 25 см ОГ 28*2 см крок 18 см
+
+73-Довжина 54 см Рукав від горла 29 см ОГ 30*2 см крок 20 см
+
+80-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 22 см
+
+90-Довжина 61 см Рукав від горла 33 см ОГ 33*2 см крок 24 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Теплий комбінезон ведмедик 🐻
+
+🖤 Верх – махра
+
+🖤 Наповнювач – синтепон
+
+🖤 Підкладка – хб
+
+🖤 Застібка – змійка
+
+🖤 Манжети на ручках та ніжках
+
+🖤 На попі є хвостик
+
+🖤 Сезон осінь-зима
+
+Заміри
+
+66-Довжина 51 см Рукав від горла 25 см ОГ 28*2 см крок 18 см
+
+73-Довжина 54 см Рукав від горла 29 см ОГ 30*2 см крок 20 см
+
+80-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 22 см
+
+90-Довжина 61 см Рукав від горла 33 см ОГ 33*2 см крок 24 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">66</param>
+        <param name="Колір">Білий</param>
+      </offer>
+      <offer id="900015485" group_id="15475" available="true" selling_type="r">
+        <name>Дитячий комбінезон ведмедик 🐻 — Білий, 73</name>
+        <name_ua>Дитячий комбінезон ведмедик 🐻 — Білий, 73</name_ua>
+        <url>https://www.kidjoy.com.ua/product/dytyachyj-kombinezon-vedmedyk-%f0%9f%90%bb/</url>
+        <categoryId>10001</categoryId>
+        <price>855</price>
+        <currencyId>UAH</currencyId>
+        <quantity_in_stock>1</quantity_in_stock>
+        <vendorCode>KJ-15485</vendorCode>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-11.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/6247980584_w1280_h1280_voreic2ks4q.webp</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-10.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-14.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-13.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-16.jpg</picture>
+        <picture>https://www.kidjoy.com.ua/wp-content/uploads/2026/08/photo_2026-08-30_18-27-15.jpg</picture>
+        <description>📝 Теплий комбінезон ведмедик 🐻
+
+🖤 Верх – махра
+
+🖤 Наповнювач – синтепон
+
+🖤 Підкладка – хб
+
+🖤 Застібка – змійка
+
+🖤 Манжети на ручках та ніжках
+
+🖤 На попі є хвостик
+
+🖤 Сезон осінь-зима
+
+Заміри
+
+66-Довжина 51 см Рукав від горла 25 см ОГ 28*2 см крок 18 см
+
+73-Довжина 54 см Рукав від горла 29 см ОГ 30*2 см крок 20 см
+
+80-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 22 см
+
+90-Довжина 61 см Рукав від горла 33 см ОГ 33*2 см крок 24 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description>
+        <description_ua>📝 Теплий комбінезон ведмедик 🐻
+
+🖤 Верх – махра
+
+🖤 Наповнювач – синтепон
+
+🖤 Підкладка – хб
+
+🖤 Застібка – змійка
+
+🖤 Манжети на ручках та ніжках
+
+🖤 На попі є хвостик
+
+🖤 Сезон осінь-зима
+
+Заміри
+
+66-Довжина 51 см Рукав від горла 25 см ОГ 28*2 см крок 18 см
+
+73-Довжина 54 см Рукав від горла 29 см ОГ 30*2 см крок 20 см
+
+80-Довжина 57 см Рукав від горла 31 см ОГ 31*2 см крок 22 см
+
+90-Довжина 61 см Рукав від горла 33 см ОГ 33*2 см крок 24 см
+
+Виміри зроблені однієї ростовки
+
+Допустима похибка +-1-2 см</description_ua>
+        <param name="Розмір за зростом">73</param>
+        <param name="Колір">Білий</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
